@@ -202,6 +202,7 @@ var data = []formfill.FDFField{
 	{T: "z52", Values: formfill.Values{V: formfill.FDFText("25")}},
 	{T: "z53", Values: formfill.Values{V: formfill.FDFText("11")}},
 	{T: "z54", Values: formfill.Values{V: formfill.FDFText("2020")}},
+}
 
 
 func CreateFields(name string, value string) formfill.FDFField {
