@@ -202,19 +202,7 @@ var data = []formfill.FDFField{
 	{T: "z52", Values: formfill.Values{V: formfill.FDFText("25")}},
 	{T: "z53", Values: formfill.Values{V: formfill.FDFText("11")}},
 	{T: "z54", Values: formfill.Values{V: formfill.FDFText("2020")}},
-}
-var te_test_data = []formfill.FDFField{
-	{T: "2.2 Trade Effluent Consent Reference Number",
-		Values: formfill.Values{
-			V: formfill.FDFText("test consent number"),
-		},
-	},
-	{T: "1 Retailer name",
-		Values: formfill.Values{
-			V: formfill.FDFText("test retailer name"),
-		},
-	},
-}
+
 
 func CreateFields(name string, value string) formfill.FDFField {
 	if strings.Contains(name, "Yes") {
