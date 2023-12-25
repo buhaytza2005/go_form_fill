@@ -1,0 +1,1346 @@
+[
+    {
+        "name": "Tick3",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick1",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick2",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick4",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick5",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick6",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick7",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick8",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick9",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick10",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes1",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "No1",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes2",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes3",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes4",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "No4",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes5",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes6",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes7",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes8",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes9",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes10",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick11",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick12",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick13",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick14",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick15",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick16",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick17",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick18",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick19",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes29",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick20",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Tick21",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "2",
+        "value": ""
+    },
+    {
+        "name": "2.2 Trade Effluent Consent Reference Number",
+        "value": ""
+    },
+    {
+        "name": "2.2 SPID(s) relating to the premises",
+        "value": ""
+    },
+    {
+        "name": "3",
+        "value": ""
+    },
+    {
+        "name": "3.1 Full legal name of company or name of Partner 1",
+        "value": ""
+    },
+    {
+        "name": "3.1 Partner 2",
+        "value": ""
+    },
+    {
+        "name": "3.1 Partner 3",
+        "value": ""
+    },
+    {
+        "name": "3.1 Partner 4",
+        "value": ""
+    },
+    {
+        "name": "3.1 Trading name of the company or organisation if different",
+        "value": ""
+    },
+    {
+        "name": "3.2 Address line 1",
+        "value": ""
+    },
+    {
+        "name": "3.2 Address line 2",
+        "value": ""
+    },
+    {
+        "name": "3.2 Address line 3",
+        "value": ""
+    },
+    {
+        "name": "3.2 Address line 4",
+        "value": ""
+    },
+    {
+        "name": "3.2 Postcode",
+        "value": ""
+    },
+    {
+        "name": "3.2 Companies' House Reg No",
+        "value": ""
+    },
+    {
+        "name": "3.3 Premises name 1",
+        "value": ""
+    },
+    {
+        "name": "3.3 Premises name 2",
+        "value": ""
+    },
+    {
+        "name": "3.3 Address line 1",
+        "value": ""
+    },
+    {
+        "name": "3.3 Address line 2",
+        "value": ""
+    },
+    {
+        "name": "3.3 Address line 3",
+        "value": ""
+    },
+    {
+        "name": "3.3 Address line 4",
+        "value": ""
+    },
+    {
+        "name": "3.3 Address line 5",
+        "value": ""
+    },
+    {
+        "name": "3.3 Job title",
+        "value": ""
+    },
+    {
+        "name": "3.3 Landline",
+        "value": ""
+    },
+    {
+        "name": "3.3 Mobile",
+        "value": ""
+    },
+    {
+        "name": "3.3 Email address",
+        "value": ""
+    },
+    {
+        "name": "3.4 Operational hours for the premises",
+        "value": ""
+    },
+    {
+        "name": "3.4 Name of contact",
+        "value": ""
+    },
+    {
+        "name": "3.4 Job title of contact",
+        "value": ""
+    },
+    {
+        "name": "3.4 Landline",
+        "value": ""
+    },
+    {
+        "name": "3.4 Mobile",
+        "value": ""
+    },
+    {
+        "name": "3.4 Email address",
+        "value": ""
+    },
+    {
+        "name": "3.5 Name of owner of the premises",
+        "value": ""
+    },
+    {
+        "name": "3.5 Address 1",
+        "value": ""
+    },
+    {
+        "name": "3.5 Address 2",
+        "value": ""
+    },
+    {
+        "name": "3.5 Address 3",
+        "value": ""
+    },
+    {
+        "name": "3.5 Postcode",
+        "value": ""
+    },
+    {
+        "name": "3.5 Telephone number",
+        "value": ""
+    },
+    {
+        "name": "3.3 Name of contact",
+        "value": ""
+    },
+    {
+        "name": "3.3 Postcode",
+        "value": ""
+    },
+    {
+        "name": "4 Reason for Variation 1",
+        "value": ""
+    },
+    {
+        "name": "4 Reason for Variation 2",
+        "value": ""
+    },
+    {
+        "name": "4 Details of Variation eg change in consent parameters such as volume or determinand limits 1",
+        "value": ""
+    },
+    {
+        "name": "4 Details of Variation eg change in consent parameters such as volume or determinand limits 2",
+        "value": ""
+    },
+    {
+        "name": "4 Details of Variation eg change in consent parameters such as volume or determinand limits 3",
+        "value": ""
+    },
+    {
+        "name": "5",
+        "value": ""
+    },
+    {
+        "name": "5.1 Trade conducted at the premises 1",
+        "value": ""
+    },
+    {
+        "name": "5.1 Trade conducted at the premises 2",
+        "value": ""
+    },
+    {
+        "name": "5.1 Further information 1",
+        "value": ""
+    },
+    {
+        "name": "5.1 Further information 2",
+        "value": ""
+    },
+    {
+        "name": "5.1 Further information 3",
+        "value": ""
+    },
+    {
+        "name": "5.2 chemical or biological treatment 1",
+        "value": ""
+    },
+    {
+        "name": "5.2 chemical or biological treatment 2",
+        "value": ""
+    },
+    {
+        "name": "5.2 chemical or biological treatment 3",
+        "value": ""
+    },
+    {
+        "name": "5.2 chemical or biological treatment 4",
+        "value": ""
+    },
+    {
+        "name": "5.2 chemical or biological treatment 5",
+        "value": ""
+    },
+    {
+        "name": "5.2 chemical or biological treatment 6",
+        "value": ""
+    },
+    {
+        "name": "5.3",
+        "value": ""
+    },
+    {
+        "name": "5.3.1 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.1 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.1 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.2 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.2 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.2 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.3 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.3 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.3 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.6 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.7 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.7 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.7 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.8 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.8 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.8 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.9 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.9 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.10 other 1",
+        "value": ""
+    },
+    {
+        "name": "5.3.9 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.4 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.5 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.4 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.5 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.4 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.5 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.10 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.10 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.10 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.11 other 2",
+        "value": ""
+    },
+    {
+        "name": "5.3.11 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.11 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.11 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.12 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.12 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.12 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.13 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.13 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.13 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.14 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.14 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.14 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.15 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.15 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.15 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.16 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.16 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.16 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.17 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.17 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.17 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.18 Max concentration to be discharged mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.18 Average concentration mg/l or ug/l",
+        "value": ""
+    },
+    {
+        "name": "5.3.18 Volume stored on site (litres)",
+        "value": ""
+    },
+    {
+        "name": "5.3.12 other 3",
+        "value": ""
+    },
+    {
+        "name": "5.3.13 other 4",
+        "value": ""
+    },
+    {
+        "name": "5.3.14 other 5",
+        "value": ""
+    },
+    {
+        "name": "5.3.15 other 6",
+        "value": ""
+    },
+    {
+        "name": "5.3.16 other 7",
+        "value": ""
+    },
+    {
+        "name": "5.3.17 other 8",
+        "value": ""
+    },
+    {
+        "name": "5.3.18 other 9",
+        "value": ""
+    },
+    {
+        "name": "5.4 m3 per 24 hours",
+        "value": ""
+    },
+    {
+        "name": "5.4 litres per second",
+        "value": ""
+    },
+    {
+        "name": "5.4 Estimated total discharged m3",
+        "value": ""
+    },
+    {
+        "name": "5.4 Proposed starting date",
+        "value": ""
+    },
+    {
+        "name": "5.4 End date",
+        "value": ""
+    },
+    {
+        "name": "5.4 Periods of discharge in 24 hour period",
+        "value": ""
+    },
+    {
+        "name": "6",
+        "value": ""
+    },
+    {
+        "name": "6.1 Location 1",
+        "value": ""
+    },
+    {
+        "name": "6.1 Location 2",
+        "value": ""
+    },
+    {
+        "name": "6.1 Location 3",
+        "value": ""
+    },
+    {
+        "name": "6.3 Location",
+        "value": ""
+    },
+    {
+        "name": "6.5 Surface area draining through sample point",
+        "value": ""
+    },
+    {
+        "name": "6.6 Further details",
+        "value": ""
+    },
+    {
+        "name": "6.6 Further details",
+        "value": ""
+    },
+    {
+        "name": "6.6 Further details",
+        "value": ""
+    },
+    {
+        "name": "7 Meter Serial No 1",
+        "value": ""
+    },
+    {
+        "name": "7 Meter Serial No 2",
+        "value": ""
+    },
+    {
+        "name": "7 Meter Serial No 3",
+        "value": ""
+    },
+    {
+        "name": "7 Meter Serial No 4",
+        "value": ""
+    },
+    {
+        "name": "7",
+        "value": ""
+    },
+    {
+        "name": "7.2 Average water consumption",
+        "value": ""
+    },
+    {
+        "name": "7.2 Av consumption from other sources",
+        "value": ""
+    },
+    {
+        "name": "7.2 Average number of days worked per week",
+        "value": ""
+    },
+    {
+        "name": "7.2 Average number of weeks worked per year",
+        "value": ""
+    },
+    {
+        "name": "7.2 Approximate date(s) and total days/year",
+        "value": ""
+    },
+    {
+        "name": "8 Reasons why water not returned to sewer",
+        "value": ""
+    },
+    {
+        "name": "9",
+        "value": ""
+    },
+    {
+        "name": "9.2 Permit type",
+        "value": ""
+    },
+    {
+        "name": "9.2 Permit number",
+        "value": ""
+    },
+    {
+        "name": "9.1 Enter details 1",
+        "value": ""
+    },
+    {
+        "name": "9.1 Enter details 2",
+        "value": ""
+    },
+    {
+        "name": "10 Reason for request for termination 1",
+        "value": ""
+    },
+    {
+        "name": "10 Date of termination of consent",
+        "value": ""
+    },
+    {
+        "name": "10 Final meter reading",
+        "value": ""
+    },
+    {
+        "name": "11 Reason for request for discontinuation 1",
+        "value": ""
+    },
+    {
+        "name": "11 Discontinue from",
+        "value": ""
+    },
+    {
+        "name": "11 Expected discharge renewal date",
+        "value": ""
+    },
+    {
+        "name": "11 Final Meter reading(s) where applicable",
+        "value": ""
+    },
+    {
+        "name": "12 Date",
+        "value": ""
+    },
+    {
+        "name": "12 FULL NAME",
+        "value": ""
+    },
+    {
+        "name": "12 Role in company or job title",
+        "value": ""
+    },
+    {
+        "name": "12 Company name",
+        "value": ""
+    },
+    {
+        "name": "12 Telephone number",
+        "value": ""
+    },
+    {
+        "name": "12 Email address",
+        "value": ""
+    },
+    {
+        "name": "12 Signature 2",
+        "value": ""
+    },
+    {
+        "name": "12 Signature 1",
+        "value": ""
+    },
+    {
+        "name": "13 Date",
+        "value": ""
+    },
+    {
+        "name": "13 Full name",
+        "value": ""
+    },
+    {
+        "name": "13 Role in company or job title",
+        "value": ""
+    },
+    {
+        "name": "13 Company name",
+        "value": ""
+    },
+    {
+        "name": "13 Telephone",
+        "value": ""
+    },
+    {
+        "name": "13 Email address",
+        "value": ""
+    },
+    {
+        "name": "14 Signature",
+        "value": ""
+    },
+    {
+        "name": "14 Date",
+        "value": ""
+    },
+    {
+        "name": "14 Full name",
+        "value": ""
+    },
+    {
+        "name": "14 Role in company or job title",
+        "value": ""
+    },
+    {
+        "name": "14 Company name",
+        "value": ""
+    },
+    {
+        "name": "14 Telephone",
+        "value": ""
+    },
+    {
+        "name": "14 Email address",
+        "value": ""
+    },
+    {
+        "name": "15 Please use this page to add further information 1",
+        "value": ""
+    },
+    {
+        "name": "1 Retailer name",
+        "value": ""
+    },
+    {
+        "name": "Yes11",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes12",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes13",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes14",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes16",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes15",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes17",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes19",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes21",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes23",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes18",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes20",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes22",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes24",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes 25",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes 26",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes27",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes28",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes30",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes31",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes32",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes33",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes34",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes35",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes36",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes37",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes38",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes39",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes40",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes41",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes42",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes43",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "No43",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes44",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "No44",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes45",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "No45",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes46",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "No46",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    },
+    {
+        "name": "Yes47",
+        "value": "Off",
+        "options": [
+            "Yes",
+            "Off"
+        ]
+    }
+]
