@@ -99,12 +99,16 @@ func StringPtr(s string) *string {
 
 func CreateFields(name string, value string) formfill.FDFField {
 	if strings.Contains(name, "Yes") {
+		fmt.Println("Creating field ", name, " with value ", value)
 		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFName(value)}}
 	} else if strings.Contains(name, "No") {
+		fmt.Println("Creating field ", name, " with value ", value)
 		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFName(value)}}
 	} else if strings.Contains(name, "Tick") {
+		fmt.Println("Creating field ", name, " with value ", value)
 		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFName(value)}}
 	} else {
+		fmt.Println("Creating field ", name, " with value ", value)
 		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFText(value)}}
 	}
 }
@@ -133,18 +137,16 @@ func MapData2ToFields(appData SecondApplicationData) []formfill.FDFField {
 	}
 	if appData.Sole_trader_applicant != "" {
 		formFields = append(formFields, CreateFields("Tick9", appData.Sole_trader_applicant))
+		formFields = append(formFields, CreateFields("No1", appData.Sole_trader_applicant))
 	}
 	if appData.Business != "" {
-		formFields = append(formFields, CreateFields("2", appData.Business))
+		formFields = append(formFields, CreateFields("2", appData.Applicant_name))
 	}
+
+	// need logic to determine is sole trader or company
 	if appData.Organisation_is_a_company != "" {
-		formFields = append(formFields, CreateFields("3.1 Full legal name of company or name of Partner 1", appData.Business))
-	}
-	if appData.Organisation_is_not_a_company != "" {
+		formFields = append(formFields, CreateFields("3.1 Full legal name of company or name of Partner 1", appData.Applicant_name))
 		formFields = append(formFields, CreateFields("Yes1", appData.Organisation_is_a_company))
-	}
-	if appData.Company_number != "" {
-		formFields = append(formFields, CreateFields("No1", appData.Organisation_is_not_a_company))
 	}
 
 	// page 6))
@@ -165,6 +167,7 @@ func MapData2ToFields(appData SecondApplicationData) []formfill.FDFField {
 		formFields = append(formFields, CreateFields("3.2 Postcode", appData.Registered_address_postcode))
 	}
 	if appData.Company_number != "" {
+		fmt.Println("Company number is ", appData.Company_number)
 		formFields = append(formFields, CreateFields("3.2 Companies' House Reg No", appData.Company_number))
 	}
 	// section 3.3 Trade premises))
