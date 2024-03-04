@@ -121,7 +121,7 @@ func CreateFields2(name string, value string) formfill.FDFField {
     }
 }
 func CreateFields(name string, value string) formfill.FDFField {
-	if strings.Contains(name, "Companies' House Reg No"){
+	if strings.Contains(name, "Companies' House Reg No") || strings.Contains(name, "7 Meter Serial No 1"){
 		// For the 'company number' field, which is a text field
 		fmt.Println("Creating text field in main ", name, " with value ", value)
 		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFText(value)}}
@@ -158,7 +158,6 @@ func MapData2ToFields(appData SecondApplicationData) []formfill.FDFField {
 	if appData.Spid != "" {
 		formFields = append(formFields, CreateFields("2.2 SPID(s) relating to the premises", appData.Spid))
 	}
-	doc.Catalog.Flatten
 	// section 3.1 - organisation))
 	if appData.Company_applicant != "" {
 		formFields = append(formFields, CreateFields("Tick7", appData.Company_applicant))
@@ -355,10 +354,10 @@ func MapData2ToFields(appData SecondApplicationData) []formfill.FDFField {
 	// page 12))
 	// section 7.1 water meters))
 	if appData.Meter_present != "" {
-		formFields = append(formFields, CreateFields("No45", appData.Meter_present))
+		formFields = append(formFields, CreateFields("Yes45", appData.Meter_present))
 	}
 	if appData.Meter_serial != "" {
-		formFields = append(formFields, CreateFields("6.7 Meter Serial No 1", appData.Meter_serial))
+		formFields = append(formFields, CreateFields("7 Meter Serial No 1", appData.Meter_serial))
 	}
 	// section 7.2 site consumption))
 	if appData.Average_water_use != "" {
@@ -428,8 +427,8 @@ func main() {
 
 
 	// get data from rust server as a test
-
-	resp, err := http.Get("http://localhost:9999/sites")
+	jsonData := []byte(`{"site_no": "2020"}`)
+	resp, err := http.Post("http://localhost:9999/site", "application/json", strings.NewReader(string(jsonData)))
 	if err != nil {
 		fmt.Print(err)
 	}
