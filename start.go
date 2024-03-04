@@ -97,7 +97,7 @@ func StringPtr(s string) *string {
 	return &s
 }
 
-func CreateFields(name string, value string) formfill.FDFField {
+func CreateFields2(name string, value string) formfill.FDFField {
     if strings.Contains(name, "Yes") || strings.Contains(name, "No") || strings.Contains(name, "Tick") {
         // For checkboxes or similar fields where 'Yes', 'No', or 'Tick' are valid values
         fmt.Println("Creating checkbox/radio field ", name, " with value ", value)
@@ -120,8 +120,12 @@ func CreateFields(name string, value string) formfill.FDFField {
         return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFText(value)}}
     }
 }
-func CreateFieldsOld(name string, value string) formfill.FDFField {
-	if strings.Contains(name, "Yes") {
+func CreateFields(name string, value string) formfill.FDFField {
+	if strings.Contains(name, "Companies' House Reg No"){
+		// For the 'company number' field, which is a text field
+		fmt.Println("Creating text field in main ", name, " with value ", value)
+		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFText(value)}}
+	} else if strings.Contains(name, "Yes") {
 		fmt.Println("Creating field ", name, " with value ", value)
 		return formfill.FDFField{T: name, Values: formfill.Values{V: formfill.FDFName(value)}}
 	} else if strings.Contains(name, "No") {
@@ -154,6 +158,7 @@ func MapData2ToFields(appData SecondApplicationData) []formfill.FDFField {
 	if appData.Spid != "" {
 		formFields = append(formFields, CreateFields("2.2 SPID(s) relating to the premises", appData.Spid))
 	}
+	doc.Catalog.Flatten
 	// section 3.1 - organisation))
 	if appData.Company_applicant != "" {
 		formFields = append(formFields, CreateFields("Tick7", appData.Company_applicant))
